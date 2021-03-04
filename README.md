@@ -17,6 +17,3 @@ python red.py -s python -i 10.10.1 -p 4444
 7. netcat 
 8. python 
 
-# credits 
-Lawrence Amer 
-contact@lawrenceamer.me
